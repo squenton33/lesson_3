@@ -1,0 +1,1 @@
+# you duped me, new_answer vs answer, nothing happened to the answer variable so its just 42 - 8
